@@ -6,7 +6,16 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Nov 2023 14:57:45 +0000</lastBuildDate><atom:link href="https://samderbol.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Nov 2023 17:24:04 +0000</lastBuildDate><atom:link href="https://samderbol.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog2</title>
+      <link>https://samderbol.github.io/post/blog2/</link>
+      <pubDate>Thu, 02 Nov 2023 17:24:04 +0000</pubDate>
+      
+      <guid>https://samderbol.github.io/post/blog2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>https://samderbol.github.io/post/blog/</link>
@@ -14,56 +23,6 @@
       
       <guid>https://samderbol.github.io/post/blog/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://samderbol.github.io/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.1-jie-freebsd-faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samderbol.github.io/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.1-jie-freebsd-faq/</guid>
-      <description>第0.1节 FreeBSD FAQ 问题 答案 1、怎么在 VM 虚拟机上安装 FreeBSD（安装文字、视频、图解教程）？ 文档内自行搜索 2、怎么安装显卡驱动？ 文档内自行搜索 3、支持 Wayland 吗？ 不支持（gnome 会卡在 GDM、kde5 会闪退） 4、怎么安装 hald 服务 现在不需要这个服务了。 5、使用什么工具刻录 FreeBSD？ rufus。不建议用其他软件。其他系统自己 dd 6、硬件支持情况 去 https://bsd-hardware.info/?d=FreeBSD 查询 7、选择 ZFS 还是UFS 内存大于等于 4G 用 ZFS，否则 UFS 8、安装了 KDE 5 桌面进不去，一直闪退 检查左下角是不是 X11。wayland 是进不去的。虚拟机看不见左下角的去看问题 2 9、root 登录不进去 KDE5 文档内自行搜索 root 登录 10、FreeBSD 找不到 gcc wget…… 文档内自行搜索 去GNU 11、FreeBSD 怎么安装软件 ①pkg install xxxx ②cd /usr/ports/XXX &amp;amp;&amp;amp; make BATCH=yes install 12、FreeBSD 怎么安装 mysql/postgresql 文档内自行搜索 13、怎么升级系统 freebsd-update fetch install 14、什么是苦难哲学 文档内自行搜索 15、怎么安装输入法 这个问题和你的桌面、shell、用户都有关系。请仔细看书或在群内询问。 16、怎么配置 WIFI？ 先去查 https://bsd-hardware.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://samderbol.github.io/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.2-jie-freebsd-zhong-wen-she-qu-cfc-fa-zhan-gui-hua/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samderbol.github.io/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.2-jie-freebsd-zhong-wen-she-qu-cfc-fa-zhan-gui-hua/</guid>
-      <description>第0.2节 FreeBSD 中文社区（CFC）发展规划 短期规划（2018-2023）【进行中……】： 主力建设 QQ，扩充微信群，同时以 Telegram 群为辅； 完成《FreeBSD 从入门到跑路》； 革故鼎新，从头开始建立新的 FreeBSD 中文社区； 完成 FreeBSD 手册简体中文翻译 ； 继续发展微信公众号——FreeBSD 中文； 继续募集捐款（目标 ¥3000）； 建设维护 bsdcn.org； 根据《FreeBSD 从入门到跑路》录制视频上传 Bilibili； 初步形成 FreeBSD 中文社区核心团队以及管理组； 捐赠 FreeBSD 基金会； 中期规划（2024-2026）： 在国内大学中广泛推广宣传 FreeBSD，并带领其形成校内社团/开源组织； 使用虚拟 VUP 宣传 FreeBSD； 有成员成为 FreeBSD 项目 Committer； 社区由技术驱动逐渐转为需求驱动； 维护审阅 FreeBSD 手册与《FreeBSD 从入门到跑路》； 完全形成 FreeBSD 中文社区核心团队、翻译组、以及管理组等； 继续募集捐款（目标 ¥30000）； 培养人才——集中授课； 孵化项目，成立公司； 为 FreeBSD 项目贡献文档； 建立 FreeBSD 中文社区自己的项目——使用 FreeBSD； 完成 FreeBSD 其他手册的翻译； 捐赠 FreeBSD 基金会； 解决镜像站问题； 长期规划（2027-2030）： 出版 FreeBSD 手册与《FreeBSD 从入门到跑路》； 募集捐款（目标 ¥200000）； 继续为 FreeBSD 项目贡献源代码； 捐赠 FreeBSD 基金会； 有成员进入 FreeBSD 项目核心团队； 最高纲领（2031-2040）： 使用 FreeBSD 发展中国的计算机事业，提高广大人民群众的计算机水平，使中国的计算机水平位列世界前沿。增进人们的精神文化建设，助力中国信息化、现代化建设； 增强以大学生为主体的群体其对开源项目的参与度，促进开源事业在中国乃至于亚洲地区的发展； 成立 FreeBSD 中国基金会或全国性社团组织； 募集捐款（目标 ¥3000000）； 捐赠并加入 FreeBSD 基金会； </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://samderbol.github.io/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.3-jie-freebsd-de-bu-zu-zhi-chu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samderbol.github.io/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.3-jie-freebsd-de-bu-zu-zhi-chu/</guid>
-      <description>第0.3节 FreeBSD 的不足之处 FreeBSD 没有为用户提供一个带 GUI 的基本系统，甚至显卡驱动都需要自己通过 ports 编译安装； FreeBSD 的驱动很差劲，直到最近才将将完美地支持 WIFI 6 的网卡，比如 AX210； FreeBSD 的开发者非常少，这意味着你的 bug 可能很久都无法得到解决，软件包也不能像 ARCH 那样时刻保持最新版； FreeBSD 的资料相对较少，中文资料更少，除了本文以外的简体中文资料几乎为 0； 由于 systemd 不兼容 Linux 以外的操作系统，导致很多软件比如 NetworkManager 无法移植，桌面环境的组件也无法完善； FreeBSD 的菊苣们比 Linux 的还要更加高傲，他们不在意你到底会不会换源会不会设置代理，需不需要境内的官方镜像站； 由于 FreeBSD 项目的基本目标和设计问题，FreeBSD 基本系统不包含一般 Linux 中常用的一些软件和命令，比如没有 lspci,free。有些可以自己安装，有些则不行； FreeBSD 的两个文件系统 ZFS 与 UFS 都只能扩大不能缩小，一个奇怪的设计； FreeBSD 缺乏上层应用软件设计，即使底层有类似 docker 的技术 jail 也没能发展起来；FreeBSD 的虚拟化技术 Byhve 也很难用，没有一个前端的 GUI 来控制，设定参数也缺乏一个统一的教程。 我们现在称为容器技术的概念最初出现在 2000 年，当时称为 FreeBSD jail，这种技术可将 FreeBSD 系统分区为多个子系统（也称为 Jail）。Jail 是作为安全环境而开发的，系统管理员可与企业内部或外部的多个用户共享这些 Jail。2001 年，通过 Jacques Gélinas 的 VServer 项目，隔离环境的实施进入了 Linux 领域。在完成了这项针对 Linux 中多个受控制用户空间的基础性工作后，Linux 容器开始逐渐成形并最终发展成了现在的模样。2008 年，Docker 公司凭借与公司同名的容器技术通过 dotCloud 登上了舞台。—— https://www.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://samderbol.github.io/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.4-jie-freebsd-fa-hang-shuo-ming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samderbol.github.io/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.4-jie-freebsd-fa-hang-shuo-ming/</guid>
-      <description>第0.4节 FreeBSD 发行说明 FreeBSD 的生命周期为每个大版本 5 年，小版本是发布新的小版本版后 +3 个月。
-FreeBSD 14 开发计划 https://github.com/bsdjhb/devsummit/blob/main/14.0/planning.md
-FreeBSD 2022 年第三季度 季度状况报告 原文地址 https://www.freebsd.org/status/report-2022-07-2022-09/
-FreeBSD 季度状态报告—— 2022 年第三季度
-这里是 2022 年的第三季度报告，包括 24 份报告。这比上一季度略少。
-我注意到，在过去，我们的季度报告要多得多：经常超过 30 份，有时甚至超过 40 份。因此，我想鼓励你们所有的人提交报告：报告对于分享你的工作、寻找帮助、让更多的人审视你的变化、让更多的人了解你的工作是非常有用的。有更多的人审查你的修改，让更多的人测试你的软件，让你在需要的时候接触到更多的人。当你需要向所有的 FreeBSD 社区讲述一些事情时，你可以接触到更多的读者。告知所有的 FreeBSD 社区以及其他许多情况。请不要害羞，也不要担心您的母语不是英语，或者您不精通 AsciiDoc 的语法：季刊团队将很乐意帮助您解决任何需要。
-另一方面，如果你真的没有什么可报告的，那么也许你想加入下面描述的一个有趣的项目，或者你会从其中的一个项目中得到启发，去做一个新的项目。也许你会受到其中一个项目的启发，去做一些新的事情，从而在未来有一些报道。
-我们祝愿大家有一个愉快的阅读体验。
-Lorenzo Salvadore，代表状态报告小组。
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-本报告的渲染版可在此查阅：
-https://www.freebsd.org/status/report-2022-07-2022-09/
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-目录
-FreeBSD 团队报告 FreeBSD 核心团队 FreeBSD 基金会 FreeBSD 发布工程团队 集群管理团队 持续集成 ports 项目 OpenStack 与 FreeBSD 作为一级云计算平台的 FreeBSD 用户空间 bhyve 调试服务器的改进 重写 pjdfstest 正在进行的 LLDB 多进程调试支持工作 DTrace：指令级动态跟踪 内核 ENA FreeBSD 驱动程序更新 wtap(4) 增强 英特尔无线走向 11ac 更多的无线更新 使用日志式软更新在文件系统上启用快照 架构 FreeBSD/Firecracker 文档 文档工程团队 ports Calendar-data: 增加了许可证 KDE 与 FreeBSD GCC 有新的维护者，GCC 12.</description>
     </item>
     
   </channel>
